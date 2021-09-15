@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: 0;
+    background-color: hotpink;
 }
 
 *{
@@ -12,3 +13,12 @@
 
 
 }
+
+*{
+    background-color: green;
+    width: 10px;
+    height: 600px;
+    border-radius: 4vh;
+   
+   
+   }
